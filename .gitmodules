@@ -1,0 +1,9 @@
+[submodule "FingerVisionCore"]
+	path = FingerVisionCore
+	url = https://github.com/MasutaniLab/FingerVisionCore
+[submodule "FingerVisionFilter"]
+	path = FingerVisionFilter
+	url = https://github.com/MasutaniLab/FingerVisionFilter
+[submodule "Kinect2ToPC"]
+	path = Kinect2ToPC
+	url = https://github.com/MasutaniLab/Kinect2ToPC
