@@ -13,3 +13,6 @@
 [submodule "Dynamixel"]
 	path = Dynamixel
 	url = https://github.com/MasutaniLab/Dynamixel
+[submodule "PCToColorCylinder"]
+	path = PCToColorCylinder
+	url = https://github.com/MasutaniLab/PCToColorCylinder
