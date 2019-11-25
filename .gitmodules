@@ -10,3 +10,6 @@
 [submodule "MikataArmWrapper"]
 	path = MikataArmWrapper
 	url = https://github.com/MasutaniLab/MikataArmWrapper
+[submodule "Dynamixel"]
+	path = Dynamixel
+	url = https://github.com/MasutaniLab/Dynamixel
