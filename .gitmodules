@@ -7,3 +7,6 @@
 [submodule "Kinect2ToPC"]
 	path = Kinect2ToPC
 	url = https://github.com/MasutaniLab/Kinect2ToPC
+[submodule "MikataArmWrapper"]
+	path = MikataArmWrapper
+	url = https://github.com/MasutaniLab/MikataArmWrapper
