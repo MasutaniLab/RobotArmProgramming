@@ -10,6 +10,12 @@
 [submodule "MikataArmWrapper"]
 	path = MikataArmWrapper
 	url = https://github.com/MasutaniLab/MikataArmWrapper
+[submodule "Dynamixel"]
+	path = Dynamixel
+	url = https://github.com/MasutaniLab/Dynamixel
+[submodule "PCToColorCylinder"]
+	path = PCToColorCylinder
+	url = https://github.com/MasutaniLab/PCToColorCylinder
 [submodule "MikataArmController"]
 	path = MikataArmController
 	url = https://github.com/MasutaniLab/MikataArmController
