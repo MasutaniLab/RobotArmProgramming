@@ -10,3 +10,6 @@
 [submodule "MikataArmWrapper"]
 	path = MikataArmWrapper
 	url = https://github.com/MasutaniLab/MikataArmWrapper
+[submodule "MikataArmController"]
+	path = MikataArmController
+	url = https://github.com/MasutaniLab/MikataArmController
