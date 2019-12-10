@@ -90,7 +90,7 @@
   - 全マーカーの 力の成分の平均(x,y,z)，トルクの平均(x,y,z)
   - オブジェクトの位置，向き，中心位置，3×3で分けられたスリップの配列(スリップ分布)，オブジェクトの位置を格納する配列と，オブジェクトの中心位置(x,y)(センサフレーム上の位置)，オブジェクトの向きの角速度等．
 
-### [MikataArmController](https://github.com/MasutaniLab/MikataArmController/tree/df2ed816a8344706b076b836b0eaf527d785c1df)
+### [MikataArmController](https://github.com/MasutaniLab/MikataArmController/tree/5b8eacbedec008dea4d2852a235911cbbee58843)
 
 - 触覚と3次元視覚を備えたロボットアームの制御用RTコンポーネント．ロボットプログラミングの教材として，RTミドルウェアの知識のない受講者が，このコンポーネントの一部のコードを書いて実習する．
 - 受講者が自由に編集するソースファイルを全体から分離している．practice.cpp内で#includeするファイルを変更することによってソースファイルを切り替えられる．これによって，コンポーネント名は同じままで，様々なコードを試すことが可能．
